@@ -6,18 +6,18 @@ html, body {
   background: #0F7173;
   
   min-height: 100%;
-  font-family: "Josefin Sans";
+  font-family: " Arial, Helvetica, sans-serif";
   text-align:center;
   overflow: hidden;
 }
 
 h1{
-  color:#F4F4F4;
+  color:#e4f7f6;
 }
 
 #mobilewrap {
   
-  width: 95%;
+  width: 80%;
   height: 100%;
   text-align: center;
 }
@@ -28,14 +28,14 @@ h1{
 }
 #mobilewrap a .fa-twitter {
   font-size: 5vh;
-  color: #1DA1F2;
+  color: #1df2dd;
 }
 
 #container {
   position: absolute;
   width: 50vh;
   height: 50vh;
-  background:#4FC3F7;
+  background:#4fe9f7;
   margin: auto;
   left: 0;
   right: 0;
@@ -64,7 +64,7 @@ h1{
   color: #272932;
 }
 #container .score p .scorefield {
-  color:#272932;
+  color:#3f5750;
   letter-spacing: 1px;
   font-weight: 600;
 }
@@ -87,7 +87,7 @@ h1{
   bottom: 0;
   left: 0;
   right: 0;
-  background: #01579B;
+  background: #019b7a;
   border-radius: 4px;
   text-align: center;
   cursor: pointer;
